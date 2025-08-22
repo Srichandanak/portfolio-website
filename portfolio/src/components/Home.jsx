@@ -23,7 +23,7 @@ export default function Home() {
             B.Tech AIML Student | Passionate about AI, ML & Web Development
           </p>
           <p className="text-gray-600 text-md max-w-xl leading-relaxed">
-            I'm a 2nd year student who loves building web apps and exploring the
+            I'm a 3rd year student who loves building web apps and exploring the
             power of intelligent systems. I'm deeply driven by ambition, but it's{" "}
             <strong>discipline</strong> and <strong>hard work</strong> that shape how I
             learn, build, and grow every day.
