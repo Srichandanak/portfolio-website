@@ -62,7 +62,7 @@ export default function Home() {
           {/* CTA */}
           <div className="mt-8 flex flex-wrap gap-4">
             <a
-              href="/resume.pdf"
+              href="../assets/Srichandana_Resume_2025_finalUpdated_August (1).pdf"
               className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition"
               download
             >
