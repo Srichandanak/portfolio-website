@@ -59,7 +59,7 @@ export default function About() {
               <FaGithub /> GitHub
             </a>
             <a
-              href="https://linkedin.com/in/Srichandana Kondapaturi"
+              href="www.linkedin.com/in/srichandana-kondapaturi-3356a62b3"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:underline"
